@@ -1,0 +1,7 @@
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\bin\Debug\helsinki.exe.config
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\bin\Debug\helsinki.exe
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\bin\Debug\helsinki.pdb
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\obj\Debug\helsinki1952.csproj.AssemblyReference.cache
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\obj\Debug\helsinki1952.csproj.CoreCompileInputs.cache
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\obj\Debug\helsinki.exe
+C:\Users\0tac-egyrob\source\repos\helsinki\helsinki\obj\Debug\helsinki.pdb

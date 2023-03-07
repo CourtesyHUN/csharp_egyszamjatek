@@ -1,0 +1,7 @@
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\bin\Debug\Jaror.exe.config
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\bin\Debug\Jaror.exe
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\bin\Debug\Jaror.pdb
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\obj\Debug\Jaror.csproj.CoreCompileInputs.cache
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\obj\Debug\Jaror.exe
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\obj\Debug\Jaror.pdb
+C:\Users\0tac-egyrob\source\repos\Jaror\Jaror\obj\Debug\Jaror.csproj.AssemblyReference.cache
